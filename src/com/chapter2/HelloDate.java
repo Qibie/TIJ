@@ -8,7 +8,7 @@ import java.util.Date;
  * @author qibie
  * @author Bruce Eckel
  * @author www.MindView.net
- * @date 2018年12月1日 下午10:13:40
+ * @date 20181201 23:13:40
  * @version 4.0   
  */
 public class HelloDate {
