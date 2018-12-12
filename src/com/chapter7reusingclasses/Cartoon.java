@@ -20,7 +20,7 @@ class Drawing extends Art {
 	}
 }
 
-public class Cartoon {
+public class Cartoon extends Drawing {
 	public Cartoon() {
 		print("Cartoon constructor");
 	}
