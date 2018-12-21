@@ -86,6 +86,4 @@ public class Exec11DetergentDelegation {
 		print("Testing base class:");
 		Clean.main(args);
 	}
-
 }
-fgt
